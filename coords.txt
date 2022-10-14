@@ -1,3 +1,0 @@
-Cordenadas da lupa de pesquisa:
-X: 70
-Y: 759
